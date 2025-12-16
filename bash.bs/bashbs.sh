@@ -2,8 +2,8 @@
 
 pname=$1
 pdir="./${pname}"
-tdir="/Users/zoowa/Desktop/llp/build-system/bash.bs/templates"
 tdir="/var/bash.bs/templates"
+
 usage(){
     >&2 echo "usage: $0 <project>"
     return 0
