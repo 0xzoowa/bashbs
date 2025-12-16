@@ -22,7 +22,7 @@ myproject/
 1. Clone this repository:
 
 ```bash
-git clone <your-repo-url>
+git clone [text](https://github.com/0xzoowa/bashbs.git)
 cd bash.bs
 ```
 
